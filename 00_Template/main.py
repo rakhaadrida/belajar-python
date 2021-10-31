@@ -1,0 +1,2 @@
+print('coba');
+print('python');
